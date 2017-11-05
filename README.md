@@ -1,5 +1,5 @@
-# BierBox (Bierbrauapparat mit externer Steuerung)
-(zum eingestellten Projekt "Bierbrauapparat mit interner Steuerung" gehts hier entlang: https://github.com/MHCraftbeer/Brauapparat)
+# BierBox (Brauapparat mit externer Steuerung)
+(zum eingestellten Projekt "Brauapparat mit interner Steuerung" gehts hier entlang: https://github.com/MHCraftbeer/Brauapparat)
 
 mehr Infos auf meinem Blog:
 https://mhcraftbeer.wordpress.com/
