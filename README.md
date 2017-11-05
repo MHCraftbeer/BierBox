@@ -20,5 +20,5 @@ Kleinkram wie verschiedene Schrauben und Muttern (besonders zum Befestigen des W
 Zum Gehäuse:
 Das ist eine Vektorzeichnung welche von den meisten Lasercuttern eingelesen werden kann. Öffnen und bearbeiten kann man svg Dateien mit dem kostenlosen open Source Programm Inkscape
 
-Zu den Buttons:
+Zu den Buttons: <br>
 Es werden vier normale und ein reset Button benötigt. Die Datein können von den meisten 3D-Druckern gelesen werden.
